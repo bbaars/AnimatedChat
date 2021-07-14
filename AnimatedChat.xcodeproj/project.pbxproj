@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F90D0312696898A003DF5B2 /* MessageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F90D0302696898A003DF5B2 /* MessageView.swift */; };
 		8FA783252694B0B000A92632 /* AnimatedChatApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA783242694B0B000A92632 /* AnimatedChatApp.swift */; };
 		8FA783272694B0B000A92632 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FA783262694B0B000A92632 /* ContentView.swift */; };
 		8FA783292694B0B200A92632 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8FA783282694B0B200A92632 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F90D0302696898A003DF5B2 /* MessageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageView.swift; sourceTree = "<group>"; };
 		8FA783212694B0B000A92632 /* AnimatedChat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimatedChat.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8FA783242694B0B000A92632 /* AnimatedChatApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedChatApp.swift; sourceTree = "<group>"; };
 		8FA783262694B0B000A92632 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				8FA783262694B0B000A92632 /* ContentView.swift */,
 				8FA783282694B0B200A92632 /* Assets.xcassets */,
 				8FA7832D2694B0B200A92632 /* Info.plist */,
+				8F90D0302696898A003DF5B2 /* MessageView.swift */,
 				8FA7832A2694B0B200A92632 /* Preview Content */,
 			);
 			path = AnimatedChat;
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8F90D0312696898A003DF5B2 /* MessageView.swift in Sources */,
 				8FA783272694B0B000A92632 /* ContentView.swift in Sources */,
 				8FA783252694B0B000A92632 /* AnimatedChatApp.swift in Sources */,
 			);
